@@ -14,7 +14,7 @@ import (
 
 const (
 	// tcp_server      = "127.0.0.1:8090"
-	tcp_server      = "192.168.26.130:10014"
+	tcp_server      = "127.0.0.1:10808"
 	udp_timeout     = 5
 	tcp_timeout     = 10
 	tcp_check_timer = 5
